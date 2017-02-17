@@ -1,0 +1,7 @@
+#Fri Jan 20 18:13:23 CST 2017
+base.0=C\:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_742cf79c770583e5d988145d10f01b3e97cbac05
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2f097c6109c00e774040538e0d662b19f7b65ca7\\classes.dex
+base.1=C\:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2f097c6109c00e774040538e0d662b19f7b65ca7
+file.0=C\:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_742cf79c770583e5d988145d10f01b3e97cbac05\\classes.dex

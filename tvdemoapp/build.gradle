@@ -1,0 +1,41 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+//CVTE CODE START
+//添加用于连接与发布到CVTE MAVEN仓库http://maven.gz.cvte.cn:8081/nexus
+apply plugin: 'maven'
+
+def getReleaseRepositoryUrl() {
+    return hasProperty('RELEASE_REPOSITORY_URL') ? RELEASE_REPOSITORY_URL
+            : "http://maven.gz.cvte.cn:8081/nexus/content/repositories/releases/"
+}
+
+def getSnapshotRepositoryUrl() {
+    return hasProperty('SNAPSHOT_REPOSITORY_URL') ? SNAPSHOT_REPOSITORY_URL
+            : "http://maven.gz.cvte.cn:8081/nexus/content/repositories/snapshots/"
+}
+//CVTE CODE END
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        //CVTE CODE START
+        //添加用于连接与发布到CVTE MAVEN仓库http://maven.gz.cvte.cn:8081/nexus
+        mavenLocal()
+        maven { url getReleaseRepositoryUrl() }
+        maven { url getSnapshotRepositoryUrl() }
+        mavenCentral()
+        //CVTE CODE END
+        jcenter()
+    }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+    <RelativeLayout
+        android:id="@+id/preview_win"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_bg_seekbar"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="10px">
+    <com.example.cvte.demotvsetting.widget.TvSurfaceView
+        android:id="@+id/tv_mini_window_id"
+        android:layout_width="720px"
+        android:layout_height="420px"
+        android:layout_gravity="center" />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/mutebutton"
+        android:layout_below="@id/preview_win"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:text="mute window"/>
+    <Button
+        android:id="@+id/dismutebutton"
+        android:layout_toRightOf="@id/mutebutton"
+        android:layout_below="@id/preview_win"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:text="dismute window"/>
+</RelativeLayout>

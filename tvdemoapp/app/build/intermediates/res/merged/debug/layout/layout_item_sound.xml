@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_detail"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemDetailFragment">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="sound mode"
+            android:layout_width="200px"
+            style="@style/ItemTitleText"
+            android:layout_height="wrap_content" />
+        <Spinner
+            android:id="@+id/spinnersoundmode"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="voice"
+            android:layout_width="200px"
+            style="@style/ItemTitleText"
+            android:layout_height="wrap_content" />
+        <SeekBar
+            android:background="@drawable/selector_bg_seekbar"
+            android:id="@+id/processnoise"
+            android:layout_width="400px"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

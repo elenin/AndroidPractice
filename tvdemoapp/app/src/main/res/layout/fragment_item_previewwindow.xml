@@ -1,0 +1,8 @@
+<com.example.cvte.demotvsetting.widget.TvPreviewWindow xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/item_detail"
+    style="?android:attr/textAppearanceLarge" android:layout_width="match_parent"
+    android:background="@color/transparent"
+    android:layout_height="match_parent" android:padding="16dp" android:textIsSelectable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".ItemDetailFragment" />

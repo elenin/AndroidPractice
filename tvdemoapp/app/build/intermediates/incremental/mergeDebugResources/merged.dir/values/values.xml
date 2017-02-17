@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_black">#df000000</color>
+    <color name="red">#dfff0000</color>
+    <color name="transparent">#00000000</color>
+    <string name="app_name">DemoTVSetting</string>
+    <string name="title_item_detail">Item Detail</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="IndicatorTitleText" parent="android:TextAppearance.DeviceDefault.Medium">
+        <item name="android:textSize">30px</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="ItemTitleText" parent="android:TextAppearance.DeviceDefault.Medium">
+        <item name="android:textSize">20px</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+</resources>

@@ -1,0 +1,140 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_detail"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemDetailFragment">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="PictureMode"
+            android:layout_width="200px"
+            style="@style/ItemTitleText"
+            android:layout_height="wrap_content"
+            android:id="@+id/pmode" />
+        <Spinner
+            android:id="@+id/spinnerPmode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            style="@style/ItemTitleText"
+            android:text="Contrast"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:id="@+id/contrast" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBarContrast"
+            android:background="@drawable/selector_bg_seekbar"
+            android:layout_weight="1"
+            android:indeterminate="false" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            style="@style/ItemTitleText"
+            android:text="Brightness"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:id="@+id/brightness" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBarBrightness"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bg_seekbar"
+            android:indeterminate="false" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            style="@style/ItemTitleText"
+            android:text="Tint"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:id="@+id/tint" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBarTint"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bg_seekbar"
+            android:indeterminate="false" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            style="@style/ItemTitleText"
+            android:text="Color"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:id="@+id/color" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBarColor"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bg_seekbar"
+            android:indeterminate="false" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            style="@style/ItemTitleText"
+            android:text="Sharpness"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:id="@+id/sharpness" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBarSharpness"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bg_seekbar"
+            android:indeterminate="false" />
+
+    </LinearLayout>
+</LinearLayout>

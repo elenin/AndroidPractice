@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_f179255233a5a7f4c05d40093abf0bf2cd63f442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_f049a32939fe37978093cf1b512e8c3fc5b8d14e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="27cc047c812f1090497af1e7d619b564a13a3b40">
+        <dex dex="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2f097c6109c00e774040538e0d662b19f7b65ca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\libs\cvte-tv-api-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d012dae0ac8dabc5010ac526f1a6eba57c7670f4">
+        <dex dex="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\transforms\dex\debug\folders\1000\2\cvte-tv-api-1.6_732f4725f3bfcb5c46b374b2005e67207989d7d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b8da97f9ae01e9a06dd40198760db071890f072">
+        <dex dex="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_742cf79c770583e5d988145d10f01b3e97cbac05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\ele\AndroidStudioProjects\tvdemoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_7c6cba3b7e20f679863a77a982be5c9af9a3c43a\classes.dex" />
+    </item>
+
+</items>

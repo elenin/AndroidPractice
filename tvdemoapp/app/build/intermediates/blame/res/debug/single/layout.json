@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_channel.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\layout_item_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_epg.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_epg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tv_mini_window.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\layout_tv_mini_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_previewwindow.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_previewwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_epg.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\layout_item_epg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_detail.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_inputsource.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\layout_item_inputsource.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_sound.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\layout_item_sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_inputsource.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_inputsource.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_channel.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\activity_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_picture.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\layout_item_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_picture.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_detail.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_sound.xml",
+        "source": "C:\\Users\\ele\\AndroidStudioProjects\\tvdemoapp\\app\\src\\main\\res\\layout\\fragment_item_sound.xml"
+    }
+]
